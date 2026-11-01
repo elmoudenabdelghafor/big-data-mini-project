@@ -1,0 +1,97 @@
+label;texte
+Data;Data Engineer pour concevoir des pipelines de données avec Airflow et dbt
+Data;Ingénieur Big Data Hadoop Hive et Spark pour traitement par lots
+Data;Data Scientist pour modèles de scoring et apprentissage automatique
+Data;Analyste de données Python pandas et SQL pour analyses statistiques
+Data;Développeur BI Tableau et entrepôt de données Snowflake
+Data;Machine Learning Engineer deep learning avec TensorFlow et PyTorch
+Data;Data Analyst pour tableaux de bord Looker Studio et requêtes SQL
+Data;Ingénieur data streaming avec Kafka Flink et Spark Streaming
+Data;Statisticien data science modélisation et visualisation de données
+Data;Data Steward gouvernance et qualité des données
+Data;Consultant Business Intelligence reporting décisionnel et KPI
+Data;Ingénieur ETL Talend et Informatica pour intégration de données
+Data;Data Scientist computer vision et réseaux de neurones
+Data;Analyste data marketing segmentation clients et SQL
+Data;Data Engineer Databricks et Delta Lake sur grands volumes
+Data;Ingénieur MLOps déploiement de modèles de machine learning en production
+Data;Spécialiste NLP traitement du langage naturel avec Python
+Data;Administrateur de bases de données SQL Server et optimisation des requêtes
+Data;Chargé d'études statistiques et analyse prédictive
+Data;Data Engineer NoSQL MongoDB Cassandra et modélisation de données
+Développement;Développeur Full Stack Vue.js et Express pour application de gestion
+Développement;Développeur Java JEE pour application bancaire
+Développement;Ingénieur logiciel C++ pour systèmes embarqués
+Développement;Développeur web WordPress et PHP pour sites vitrines
+Développement;Développeur mobile Android Kotlin pour application grand public
+Développement;Développeur Python Flask pour services web et API
+Développement;Développeur Angular et RxJS pour interface de gestion
+Développement;Développeur backend Spring Boot et PostgreSQL
+Développement;Développeur front-end JavaScript HTML CSS et intégration de maquettes
+Développement;Développeur C# ASP.NET pour portail interne
+Développement;Développeur React Native pour application mobile
+Développement;Ingénieur développement Go pour microservices performants
+Développement;Développeur Ruby on Rails pour plateforme SaaS
+Développement;Développeur Symfony et MySQL pour site e-commerce
+Développement;Développeur Swift pour application iPhone
+Développement;Développeur TypeScript NestJS et GraphQL
+Développement;Ingénieur développement logiciel conception orientée objet et tests unitaires
+Développement;Développeur Unity C# pour jeux vidéo
+Développement;Concepteur développeur d'applications Java et Hibernate
+Développement;Développeur Next.js et Tailwind pour site vitrine
+Sécurité;Analyste cybersécurité pour gestion des alertes et détection des menaces
+Sécurité;Ingénieur sécurité applications pentest et revue de code sécurisé
+Sécurité;Auditeur sécurité des systèmes d'information et conformité ISO 27001
+Sécurité;Spécialiste forensic investigation numérique et réponse à incident
+Sécurité;Administrateur sécurité pare-feu VPN et filtrage réseau
+Sécurité;Analyste CERT veille sur les vulnérabilités et gestion des correctifs
+Sécurité;Expert en test d'intrusion Metasploit et Burp Suite
+Sécurité;Responsable conformité RGPD et protection des données personnelles
+Sécurité;Ingénieur SOC Splunk et corrélation d'événements de sécurité
+Sécurité;Consultant cyber gestion des risques et plans de continuité
+Sécurité;Expert cryptographie PKI et certificats
+Sécurité;Analyste malware reverse engineering et analyse de menaces
+Sécurité;Ingénieur sécurité Active Directory et gestion des identités
+Sécurité;Chasseur de menaces threat hunting et MITRE ATT&CK
+Sécurité;Spécialiste sécurité endpoint antivirus EDR et durcissement des postes
+Sécurité;Auditeur en sécurité informatique tests de vulnérabilités et rapports
+Sécurité;Ingénieur sécurité réseau IDS IPS et segmentation
+Sécurité;Responsable sécurité opérationnelle et gestion de crise cyber
+Sécurité;Analyste phishing sensibilisation des utilisateurs et réponse aux incidents
+Sécurité;Expert Red Team simulation d'attaques et exploitation de failles
+Cloud;Ingénieur cloud AWS Lambda S3 et architecture serverless
+Cloud;Administrateur Kubernetes et déploiement de conteneurs
+Cloud;Ingénieur DevOps Jenkins GitLab CI et automatisation des déploiements
+Cloud;Architecte solutions Azure et réseaux virtuels
+Cloud;Ingénieur plateforme Terraform Ansible et infrastructure as code
+Cloud;Cloud Engineer Google Cloud Platform et migration d'applications
+Cloud;Ingénieur SRE supervision Grafana et haute disponibilité
+Cloud;Spécialiste Docker orchestration et registre de conteneurs
+Cloud;Ingénieur virtualisation VMware et cloud privé OpenStack
+Cloud;Expert FinOps optimisation des coûts cloud
+Cloud;Ingénieur DevOps Helm ArgoCD et GitOps
+Cloud;Administrateur systèmes Linux automatisation Bash et Ansible
+Cloud;Ingénieur cloud Azure DevOps pipelines et déploiement continu
+Cloud;Consultant cloud hybride et migration vers AWS
+Cloud;Ingénieur CI/CD GitHub Actions et conteneurisation
+Cloud;Architecte infrastructure multi-cloud et résilience
+Cloud;Ingénieur réseau cloud VPC load balancer et DNS
+Cloud;Ingénieur observabilité Prometheus ELK et alerting
+Cloud;Technicien cloud support infrastructure et machines virtuelles
+Cloud;Ingénieur plateforme interne Kubernetes et services managés
+Data;Data Engineer needed to build ETL pipelines with Spark and Airflow
+Data;Hiring a Data Scientist for machine learning and predictive modeling
+Data;Data Analyst with SQL and Power BI for business reporting
+Data;Machine learning engineer to deploy models in production with MLOps
+Développement;Full Stack Developer with React and Node.js for a web application
+Développement;Backend developer Java Spring Boot for REST APIs and microservices
+Développement;Mobile developer Flutter or Kotlin for an Android application
+Développement;Frontend engineer TypeScript and Angular for a customer portal
+Sécurité;Cybersecurity analyst for SOC monitoring and incident response
+Sécurité;Penetration tester for vulnerability assessment and red team exercises
+Sécurité;Security engineer for threat detection SIEM and compliance audits
+Sécurité;Information security officer for risk management and ISO 27001
+Cloud;DevOps engineer with Kubernetes Terraform and CI/CD pipelines
+Cloud;Cloud architect AWS or Azure for infrastructure migration
+Cloud;Site reliability engineer for monitoring containers and high availability
+Cloud;Platform engineer Docker Helm and GitOps for cloud infrastructure

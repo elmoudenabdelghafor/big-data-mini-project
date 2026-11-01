@@ -1,0 +1,8 @@
+Recherche Data Engineer maîtrisant Spark, Kafka et SQL pour pipeline ETL
+Développeur Full Stack React et Node.js pour application web
+Analyste SOC pour surveillance SIEM et réponse aux incidents de cybersécurité
+Ingénieur DevOps AWS avec Kubernetes, Terraform et Docker
+Pentester junior : tests d'intrusion et audit de vulnérabilités
+Data Scientist machine learning Python et visualisation Power BI
+Data Engineer AWS avec Spark et Glue
+Développeur backend spécialisé en sécurité applicative

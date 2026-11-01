@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+models/
+checkpoints/
+spark-warehouse/
+metastore_db/
+derby.log
+data/social_capture.txt
+data/jobs_capture.txt
+.env
